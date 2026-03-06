@@ -1,5 +1,17 @@
-### 💫 About Me:
+## 💫 About Me:
 Hi 👋, I'm Ananya Ginnare<br><br>🎓 Student | 💻 Aspiring Artificial Intelligence & Machine Learning Engineer<br>🔹 Python | Machine Learning | C++ (DSA)<br><br>I enjoy solving DSA problems in C++ and building Machine Learning projects using Python.
+
+### Skills
+
+#### Programming Languages
+<img src="https://img.shields.io/badge/python-14354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+#### Data Science & Machine Learning
+<img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/matplotlib-35495E.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi-13988a.svg?style=for-the-badge&logo=fastapi"/>
+
+#### Tools & Version Control
+<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
 
 
 #### 🌐 Socials:
