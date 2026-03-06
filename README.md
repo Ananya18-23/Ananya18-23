@@ -12,7 +12,10 @@ Hi 👋, I'm Ananya Ginnare<br><br>🎓 Student | 💻 Aspiring Artificial Intel
 #### Tools & Version Control
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-
+#### Current Focus (2026)
+* DSA in C++ and Java.
+* Machine Learning Projects
+* Solving LeetCode Hards.
 
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ananya-ginnare-3a158a363) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swatigi2004@gmail.com) 
