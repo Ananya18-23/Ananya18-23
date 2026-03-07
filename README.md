@@ -15,8 +15,8 @@ Hi 👋, I'm Ananya Ginnare<br><br>🎓 Student | 💻 Aspiring Artificial Intel
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 #### Current Focus (2026)
-* DSA in C++ and Java.
-* Machine Learning Projects
+* DSA in C++.
+* Machine Learning Projects.
 * Solving LeetCode Hards.
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
