@@ -1,5 +1,5 @@
 ## 💫 About Me
-Hi 👋, I'm Ananya Ginnare<br><br>🎓 Student | 💻 Aspiring Artificial Intelligence & Machine Learning Engineer<br>🔹 Python | Machine Learning | C++ (DSA)<br><br>I enjoy solving DSA problems in C++ and building Machine Learning projects using Python.
+Hi 👋, I'm Ananya Ginnare<br><br>🎓 Student | 💻 Aspiring Artificial Intelligence & Machine Learning Engineer<br>🔹 Python | Machine Learning | <br><br>I enjoy solving DSA problems in C++ and building Machine Learning projects using Python.
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 ### Skills
