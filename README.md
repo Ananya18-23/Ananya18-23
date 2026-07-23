@@ -1,5 +1,5 @@
 ## 💫 About Me
-Hi 👋, I'm Ananya Ginnare<br><br>🎓 Student | 💻 Aspiring Artificial Intelligence & Machine Learning Engineer<br>🔹 Python | Machine Learning |
+Hi 👋, I'm Ananya Ginnare<br><br>🎓 Student | 💻 Aspiring Artificial Intelligence & Machine Learning Engineer<br>🔹 Python | Machine Learning | DSA 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 ### Skills
