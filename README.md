@@ -18,19 +18,6 @@ I enjoy working with data, finding meaningful insights, building machine learnin
 
 My learning journey covers both **Data Analytics and Machine Learning**, along with the deployment side of applications.
 
-### 💡 What I Work With
-
-* 🐍 Python for Data Science & Machine Learning
-* 📊 Data Analysis & Exploratory Data Analysis
-* 🗄️ SQL & MySQL
-* 📈 Power BI & Data Visualization
-* 🤖 Machine Learning with Scikit-Learn
-* 🌐 Streamlit for ML application frontend
-* ⚡ FastAPI for backend & REST APIs
-* 🐳 Docker for containerization
-* ☁️ Render & Streamlit Cloud for deployment
-* 🔧 Git & GitHub for version control
-
 I am continuously learning and building my skills to become a **job-ready Data Scientist / Data Analyst**.
 
 ---
@@ -93,7 +80,6 @@ I am continuously learning and building my skills to become a **job-ready Data S
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-0277BD?style=for-the-badge"/>
 </p>
 
 ---
