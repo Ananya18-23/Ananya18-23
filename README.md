@@ -12,13 +12,26 @@
 
 ## 👩‍💻 About Me
 
-I am a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, with a strong interest in **Data Science, Data Analytics, and Machine Learning**.
+I am a **B.Tech student specializing in Artificial Intelligence & Machine Learning (AIML)** with a strong interest in **Data Science, Data Analytics, and Machine Learning**.
 
-I enjoy working with data, discovering meaningful insights, building machine learning models, and developing **end-to-end ML applications**.
+I enjoy working with data, finding meaningful insights, building machine learning models, and developing **end-to-end ML applications**.
 
-I have hands-on experience with **Python, SQL, Machine Learning, Power BI, Streamlit, FastAPI, Docker, Git & GitHub**, along with deploying applications using **Render and Streamlit Cloud**.
+My learning journey covers both **Data Analytics and Machine Learning**, along with the deployment side of applications.
 
-I am continuously learning and improving my skills to become a **job-ready Data Scientist / Data Analyst** and build practical, real-world solutions using data and technology. 🚀
+### 💡 What I Work With
+
+* 🐍 Python for Data Science & Machine Learning
+* 📊 Data Analysis & Exploratory Data Analysis
+* 🗄️ SQL & MySQL
+* 📈 Power BI & Data Visualization
+* 🤖 Machine Learning with Scikit-Learn
+* 🌐 Streamlit for ML application frontend
+* ⚡ FastAPI for backend & REST APIs
+* 🐳 Docker for containerization
+* ☁️ Render & Streamlit Cloud for deployment
+* 🔧 Git & GitHub for version control
+
+I am continuously learning and building my skills to become a **job-ready Data Scientist / Data Analyst**.
 
 ---
 
@@ -39,8 +52,8 @@ I am continuously learning and improving my skills to become a **job-ready Data 
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/EDA-6A1B9A?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-00897B?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EDA-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-00897B?style=for-the-badge"/>
 </p>
 
 ---
@@ -50,7 +63,7 @@ I am continuously learning and improving my skills to become a **job-ready Data 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557E?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
@@ -131,18 +144,21 @@ I am continuously learning and improving my skills to become a **job-ready Data 
 ## 🎯 Current Focus
 
 <p align="center">
-
-🔹 **Data Structures & Algorithms with Python**
-🔹 **Machine Learning & Model Evaluation**
-🔹 **Data Analytics & Power BI**
-🔹 **Advanced SQL & MySQL**
-🔹 **End-to-End ML Application Development**
-🔹 **FastAPI + Streamlit Integration**
-🔹 **Docker & Cloud Deployment**
-🔹 **Deep Learning & NLP**
-🔹 **Generative AI & LLMs**
-
+  <img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA%20with%20Python-2E7D32?style=for-the-badge"/>
 </p>
+
+* 🐍 Strengthening **Python & DSA**
+* 🗄️ Improving **SQL & MySQL**
+* 📊 Practicing **Data Analytics & Power BI**
+* 🤖 Building stronger **Machine Learning fundamentals**
+* 🌐 Developing **Streamlit + FastAPI applications**
+* 🐳 Improving **Docker & deployment skills**
+* 🧠 Exploring **Deep Learning & NLP**
+* ✨ Learning **Generative AI & LLMs**
+* 🚀 Building industry-ready technical skills
 
 ---
 
@@ -153,67 +169,59 @@ I am continuously learning and improving my skills to become a **job-ready Data 
   <img src="https://img.shields.io/badge/NLP-1565C0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Generative%20AI-FF5722?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA%20with%20Python-2E7D32?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🤝 Contribution
+## 📈 Contribution Activity
 
 <p align="center">
-
-I am always open to **learning, collaborating, and contributing** to interesting projects related to:
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya18-23&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
-  📊 Data Science &nbsp; • &nbsp;
-  📈 Data Analytics &nbsp; • &nbsp;
-  🤖 Machine Learning &nbsp; • &nbsp;
-  🐍 Python &nbsp; • &nbsp;
-  🗄️ SQL &nbsp; • &nbsp;
-  🚀 ML Deployment
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananya18-23&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya18-23&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-
-💡 **Feel free to explore my repositories, suggest improvements, or collaborate with me on meaningful projects.**
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya18-23&layout=compact&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="mailto:swatigi2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Ananya18-23">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ananya-ginnare-3a158a363/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:swatigi2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://hub.docker.com/repositories/ananya86">
-  <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🌱 Learning • Building • Deploying
+## 🔗 My Profiles
 
-<p align="center">
-
-**Turning Data into Insights → Insights into Models → Models into Real-World Applications 🚀**
-
-</p>
+| Platform      | Profile                                                   |
+| ------------- | --------------------------------------------------------- |
+| 🐙 GitHub     | **Ananya18-23**                                           |
+| 💼 LinkedIn   | **Ananya Ginnare**                                        |
+| 🐳 Docker Hub | **ananya86**                                              |
+| 📧 Email      | **[swatigi2004@gmail.com](mailto:swatigi2004@gmail.com)** |
 
 ---
 
@@ -221,22 +229,21 @@ I am always open to **learning, collaborating, and contributing** to interesting
 
 <p align="center">
 
-**Aspiring Data Scientist | Data Analyst | Machine Learning Engineer**
+**Aspiring Data Scientist & Data Analyst**
 
 </p>
 
 <p align="center">
-
-I am continuously learning, building, and deploying practical solutions to grow as a **Data Science professional**.
-
+  <i>Learning • Building • Analyzing • Deploying • Growing 🚀</i>
 </p>
 
 ---
 
-<p align="center">
-  ⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
-</p>
+## 💡 My Learning Philosophy
+
+> **"Learn the concept → Practice it → Build with it → Deploy it → Improve it."**
+
+---
 
 <p align="center">
-  <b>Let's connect, collaborate, learn, and build something impactful together! 🚀</b>
-</p>
+
