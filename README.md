@@ -81,7 +81,6 @@ I am continuously learning and building my skills to become a **job-ready Data S
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
-
 ---
 
 ### 🗄️ Database
