@@ -17,7 +17,6 @@ Hi 👋, I'm Ananya Ginnare<br><br>🎓 Student | 💻 Aspiring Artificial Intel
 #### Current Focus 
 * DSA in python
 * Machine Learning Projects.
-* Solving LeetCode .
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 #### 🌐 Socials
